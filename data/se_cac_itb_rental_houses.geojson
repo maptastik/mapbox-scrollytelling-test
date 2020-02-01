@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "se_cac_itb_rental_houses",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "price": 1100 }, "geometry": { "type": "Point", "coordinates": [ -78.6104274, 35.7691429 ] } },
+{ "type": "Feature", "properties": { "id": 2, "price": 1400 }, "geometry": { "type": "Point", "coordinates": [ -78.6013831, 35.7665297 ] } },
+{ "type": "Feature", "properties": { "id": 3, "price": 1400 }, "geometry": { "type": "Point", "coordinates": [ -78.6005448, 35.7655273 ] } },
+{ "type": "Feature", "properties": { "id": 4, "price": 1100 }, "geometry": { "type": "Point", "coordinates": [ -78.5950741, 35.7648472 ] } },
+{ "type": "Feature", "properties": { "id": 5, "price": 1400 }, "geometry": { "type": "Point", "coordinates": [ -78.5883681, 35.7618758 ] } },
+{ "type": "Feature", "properties": { "id": 6, "price": 1500 }, "geometry": { "type": "Point", "coordinates": [ -78.5834709, 35.7666371 ] } }
+]
+}
