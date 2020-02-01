@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/maptastik/ck5yq0b0h0j6d1iqhmaeot8l0/draft',
+    style: 'mapbox://styles/maptastik/ck5yq0b0h0j6d1iqhmaeot8l0',
     accessToken: 'pk.eyJ1IjoibWFwdGFzdGlrIiwiYSI6IjNPMkREV1kifQ.2KGPFZD0QaGfvYzXYotTXQ',
     showMarkers: false,
     theme: 'light',
